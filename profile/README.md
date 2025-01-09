@@ -34,7 +34,7 @@ Se sei interessato a collaborare o desideri maggiori informazioni sul progetto, 
 ## 📌 **Sito Web**
 
 Visita il nostro sito ufficiale per scoprire di più:  
-🌐 [LifeFlows.app](https://lifeflows.app)
+🌐 [LifeFlows.app](https://lifeflows.app) *(Attualmente non disponibile, in fase di sviluppo!)*
 
 ---
 
